@@ -1,6 +1,6 @@
-# BetterDiscord Plugin: Reverse Image Search
+# Plugin: Reverse Image Search
 
-Enhance your Discord experience with this BetterDiscord plugin that enables reverse image search for images within Discord using TinEye.
+Enhance your Discord experience with this plugin that enables reverse image search for images within Discord using TinEye.
 
 ## Features
 
