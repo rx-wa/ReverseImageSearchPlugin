@@ -1,6 +1,6 @@
 /**
  * @name ReverseImageSearch 
- * @version 2.0.6
+ * @version 0.0.1
  * @description A plugin to reverse image search on images in Discord using TinEye.
  * @author rxwa
  */
